@@ -1,0 +1,11 @@
+apiVersion: kubeadm.k8s.io/v1beta3
+kind: JoinConfiguration
+discovery:
+  bootstrapToken:
+    apiServerEndpoint: "my-k8s-api-nlb-123456.us-east-1.elb.amazonaws.com:6443"
+    token: "REPLACE_WITH_BOOTSTRAP_TOKEN"
+    caCertHashes:
+      - "sha256:REPLACE_WITH_CA_CERT_HASH"
+nodeRegistration:
+  name: "worker-a-1"
+  criSocket: "unix:///run/containerd/containerd.sock"

@@ -1,0 +1,53 @@
+apiVersion: kubeadm.k8s.io/v1beta3
+kind: InitConfiguration
+bootstrapTokens:
+  - token: "REPLACE_WITH_BOOTSTRAP_TOKEN"
+    description: "Bootstrap token for spare-car-k8s-cluster"
+    ttl: "0"
+localAPIEndpoint:
+  advertiseAddress: "10.0.11.10"
+  bindPort: 6443
+nodeRegistration:
+  name: "control-plane-a"
+  criSocket: "unix:///run/containerd/containerd.sock"
+  taints:
+    - key: "node-role.kubernetes.io/control-plane"
+      effect: "NoSchedule"
+---
+apiVersion: kubeadm.k8s.io/v1beta3
+kind: ClusterConfiguration
+kubernetesVersion: "v1.30.8"
+clusterName: "spare-car-k8s-cluster"
+controlPlaneEndpoint: "my-k8s-api-nlb-123456.us-east-1.elb.amazonaws.com:6443"
+certificatesDir: "/etc/kubernetes/pki"
+imageRepository: "registry.k8s.io"
+networking:
+  dnsDomain: "cluster.local"
+  podSubnet: "192.168.0.0/16"
+  serviceSubnet: "172.20.0.0/16"
+apiServer:
+  timeoutForControlPlane: "4m0s"
+  certSANs:
+    - "my-k8s-api-nlb-123456.us-east-1.elb.amazonaws.com"
+    - "10.0.11.10"
+    - "10.0.12.10"
+    - "control-plane-a"
+    - "control-plane-b"
+controllerManager: {}
+scheduler: {}
+etcd:
+  local:
+    dataDir: "/var/lib/etcd"
+---
+apiVersion: kubelet.config.k8s.io/v1beta1
+kind: KubeletConfiguration
+cgroupDriver: "systemd"
+clusterDNS:
+  - "172.20.0.10"
+clusterDomain: "cluster.local"
+rotateCertificates: true
+serverTLSBootstrap: true
+---
+apiVersion: kubeproxy.config.k8s.io/v1alpha1
+kind: KubeProxyConfiguration
+mode: "iptables"

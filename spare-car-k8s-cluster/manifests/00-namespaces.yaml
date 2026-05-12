@@ -1,0 +1,23 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: app-ns
+  labels:
+    name: app-ns
+    environment: dev
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: data-ns
+  labels:
+    name: data-ns
+    environment: dev
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: monitoring
+  labels:
+    name: monitoring
+    environment: dev
