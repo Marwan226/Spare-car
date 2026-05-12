@@ -1,0 +1,30 @@
+- name: Download CNI plugins
+  get_url:
+    url: https://github.com/containernetworking/plugins/releases/download/v1.4.0/cni-plugins-linux-amd64-v1.4.0.tgz
+    dest: /tmp/cni.tgz
+
+- name: Extract CNI plugins
+  unarchive:
+    src: /tmp/cni.tgz
+    dest: /opt/cni/bin
+    remote_src: yes
+
+- name: Generate default containerd config
+  shell: containerd config default
+  register: containerd_default
+
+- name: Apply containerd config
+  copy:
+    dest: /etc/containerd/config.toml
+    content: "{{ containerd_default.stdout }}"
+
+- name: Restart containerd
+  systemd:
+    name: containerd
+    state: restarted
+    enabled: yes
+
+- name: Disable swap
+  shell: |
+    sed -i '/ swap / s/^\(.*\)$/#\1/g' /etc/fstab
+    swapoff -a
