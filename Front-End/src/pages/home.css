@@ -1,0 +1,16 @@
+
+
+@keyframes heroDrop {
+  0% {
+    background-position: center 60%;
+    filter: brightness(50%) blur(2px);
+  }
+  60% {
+    background-position: center 0%;
+    filter: brightness(75%) blur(1px);
+  }
+  100% {
+    background-position: center;
+    filter: brightness(100%) blur(0);
+  }
+}

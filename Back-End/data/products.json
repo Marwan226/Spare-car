@@ -1,0 +1,587 @@
+[
+  {
+    "name": "Bosch Brake Pads Set - Front",
+    "arabicName": "وسادات فرامل أمامية بوش",
+    "description": "High-quality ceramic brake pads suitable for daily driving and challenging conditions",
+    "price": 89.99,
+    "category": "Brakes",
+    "brand": "Bosch",
+    "carBrand": "Toyota",
+    "carModel": "Camry",
+    "year": "2015-2020",
+    "partNumber": "BOS-FBP-001",
+    "sku": "SKU-BOSCH-001",
+    "stock": 45,
+    "images": [
+      "https://m.media-amazon.com/images/I/71fV+O6U50L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71KYkR8u0kL._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "material": "Ceramic",
+      "thickness": "12mm",
+      "warranty": "2 years",
+      "compatibility": "Toyota Camry 2015-2020"
+    },
+    "rating": 4.5,
+    "reviews": 128,
+    "discount": 15,
+    "isFeatured": true
+  },
+  {
+    "name": "NGK Iridium Spark Plugs (4-Pack)",
+    "arabicName": "بوجيهات إيريديوم ان جي كيه (4 قطع)",
+    "description": "Iridium spark plugs that last up to 100,000 miles, improving fuel consumption and performance",
+    "price": 52.99,
+    "category": "Engine",
+    "brand": "NGK",
+    "carBrand": "Honda",
+    "carModel": "Civic",
+    "year": "2016-2021",
+    "partNumber": "NGK-IX-002",
+    "sku": "SKU-NGK-002",
+    "stock": 120,
+    "images": [
+      "https://m.media-amazon.com/images/I/71Z32-TGXML._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81I+VV4g8HL._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "type": "Iridium",
+      "gap": "0.044",
+      "lifespan": "100,000 miles",
+      "heatRange": "6"
+    },
+    "rating": 4.7,
+    "reviews": 89,
+    "discount": 10,
+    "isFeatured": true
+  },
+  {
+    "name": "Mobil 1 Full Synthetic Oil 5W-30 (5 Quart)",
+    "arabicName": "زيت موبيل 1 كامل التخليق 5W-30 (5 كوارت)",
+    "description": "Full synthetic engine oil providing superior engine protection in all weather conditions",
+    "price": 39.99,
+    "category": "Engine",
+    "brand": "Mobil",
+    "carBrand": "Universal",
+    "carModel": "All Models",
+    "year": "All Years",
+    "partNumber": "MOB-5W30-003",
+    "sku": "SKU-MOBIL-003",
+    "stock": 250,
+    "images": [
+      "https://m.media-amazon.com/images/I/61j-TK4XFmL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71NCMudPN1L._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "viscosity": "5W-30",
+      "type": "Full Synthetic",
+      "capacity": "5 Quarts",
+      "apiRating": "SN Plus"
+    },
+    "rating": 4.6,
+    "reviews": 342,
+    "discount": 5,
+    "isFeatured": false
+  },
+  {
+    "name": "Brembo Sport Brake Rotors - Front Pair",
+    "arabicName": "أقراص فرامل رياضية بريمبو - أمامية",
+    "description": "High-performance brake discs with weight reduction and improved heat dissipation",
+    "price": 245.0,
+    "category": "Brakes",
+    "brand": "Brembo",
+    "carBrand": "BMW",
+    "carModel": "X5",
+    "year": "2017-2023",
+    "partNumber": "BRE-SRT-004",
+    "sku": "SKU-BREMBO-004",
+    "stock": 18,
+    "images": [
+      "https://m.media-amazon.com/images/I/71RFRz9leJL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71G7j6-pxKL._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "diameter": "345mm",
+      "thickness": "30mm",
+      "material": "Cast Iron",
+      "drilled": true,
+      "slotted": true
+    },
+    "rating": 4.8,
+    "reviews": 56,
+    "discount": 20,
+    "isFeatured": true
+  },
+  {
+    "name": "KYB Excel-G Shock Absorbers - Front",
+    "arabicName": "ممتصات صدمات كي واي بي - أمامية",
+    "description": "Original shock absorbers providing driving comfort and road stability",
+    "price": 89.5,
+    "category": "Suspension",
+    "brand": "KYB",
+    "carBrand": "Ford",
+    "carModel": "Focus",
+    "year": "2012-2018",
+    "partNumber": "KYB-EXG-005",
+    "sku": "SKU-KYB-005",
+    "stock": 32,
+    "images": [
+      "https://m.media-amazon.com/images/I/71F8oUQ3JqL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71JJnmG94iL._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "type": "Gas Charged",
+      "position": "Front",
+      "warranty": "Lifetime",
+      "oeQuality": "Yes"
+    },
+    "rating": 4.4,
+    "reviews": 67,
+    "discount": 8,
+    "isFeatured": false
+  },
+  {
+    "name": "Denso Alternator 120A",
+    "arabicName": "دينامو دينسو 120 أمبير",
+    "description": "High-efficiency alternator with internal voltage regulator, suitable for direct replacement",
+    "price": 285.0,
+    "category": "Electrical",
+    "brand": "Denso",
+    "carBrand": "Toyota",
+    "carModel": "Corolla",
+    "year": "2014-2019",
+    "partNumber": "DEN-ALT-006",
+    "sku": "SKU-DENSO-006",
+    "stock": 22,
+    "images": [
+      "https://m.media-amazon.com/images/I/71D7VYF1EQL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71E7gei5jUL._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "output": "120A",
+      "voltage": "12V",
+      "rotation": "Clockwise",
+      "plugType": "2-pin"
+    },
+    "rating": 4.3,
+    "reviews": 45,
+    "discount": 12,
+    "isFeatured": false
+  },
+  {
+    "name": "Gates Timing Belt Kit with Water Pump",
+    "arabicName": "كيت سير التايمن جيتس مع طرمبة الماء",
+    "description": "Complete kit containing timing belt, tensioner, idler, and water pump",
+    "price": 129.99,
+    "category": "Engine",
+    "brand": "Gates",
+    "carBrand": "Honda",
+    "carModel": "Accord",
+    "year": "2008-2012",
+    "partNumber": "GAT-TBK-007",
+    "sku": "SKU-GATES-007",
+    "stock": 28,
+    "images": [
+      "https://m.media-amazon.com/images/I/71emG2qCwFL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81iD8HnO6VL._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "includes": "Timing belt, tensioner, idler, water pump",
+      "teeth": "147",
+      "width": "25mm",
+      "oeQuality": "Yes"
+    },
+    "rating": 4.7,
+    "reviews": 91,
+    "discount": 15,
+    "isFeatured": true
+  },
+  {
+    "name": "ACDelco Professional Battery 60AH",
+    "arabicName": "بطارية ايه سي ديلكو احترافية 60 أمبير",
+    "description": "Maintenance-free battery with high cold cranking power",
+    "price": 134.95,
+    "category": "Electrical",
+    "brand": "ACDelco",
+    "carBrand": "Chevrolet",
+    "carModel": "Malibu",
+    "year": "2013-2016",
+    "partNumber": "ACD-BAT-008",
+    "sku": "SKU-ACDELCO-008",
+    "stock": 55,
+    "images": [
+      "https://m.media-amazon.com/images/I/71lByfj0+5L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81+TqQYnAYL._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "capacity": "60AH",
+      "cca": "600",
+      "type": "AGM",
+      "warranty": "36 months"
+    },
+    "rating": 4.5,
+    "reviews": 123,
+    "discount": 7,
+    "isFeatured": false
+  },
+  {
+    "name": "Bosch Oxygen Sensor",
+    "arabicName": "حساس أكسجين بوش",
+    "description": "Upstream oxygen sensor that improves fuel consumption and reduces emissions",
+    "price": 68.5,
+    "category": "Engine",
+    "brand": "Bosch",
+    "carBrand": "Nissan",
+    "carModel": "Altima",
+    "year": "2010-2014",
+    "partNumber": "BOS-O2S-009",
+    "sku": "SKU-BOSCH-009",
+    "stock": 75,
+    "images": [
+      "https://m.media-amazon.com/images/I/71YBSVnX3pL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81v7h4k3LcL._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "type": "Upstream",
+      "connector": "4-wire",
+      "threadSize": "M18x1.5",
+      "oeNumber": "15733"
+    },
+    "rating": 4.2,
+    "reviews": 56,
+    "discount": 0,
+    "isFeatured": false
+  },
+  {
+    "name": "Monroe Quick-Strut Assembly - Front",
+    "arabicName": "مجموعة كويك سترت مونرو - أمامية",
+    "description": "Complete ready-to-install assembly containing shock absorber and spring",
+    "price": 189.99,
+    "category": "Suspension",
+    "brand": "Monroe",
+    "carBrand": "Hyundai",
+    "carModel": "Elantra",
+    "year": "2011-2016",
+    "partNumber": "MON-QS-010",
+    "sku": "SKU-MONROE-010",
+    "stock": 15,
+    "images": [
+      "https://m.media-amazon.com/images/I/71KRbvNnMkL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71+IDJN0S2L._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "type": "Complete Assembly",
+      "position": "Front",
+      "installation": "Easy",
+      "warranty": "Limited Lifetime"
+    },
+    "rating": 4.6,
+    "reviews": 78,
+    "discount": 25,
+    "isFeatured": true
+  },
+  {
+    "name": "Valvoline High Mileage Oil 10W-30",
+    "arabicName": "زيت فالڤولين للمسافات العالية 10W-30",
+    "description": "Oil specially designed for engines that have traveled more than 75,000 miles",
+    "price": 34.99,
+    "category": "Engine",
+    "brand": "Valvoline",
+    "carBrand": "Universal",
+    "carModel": "All Models",
+    "year": "All Years",
+    "partNumber": "VAL-HM-011",
+    "sku": "SKU-VALVOLINE-011",
+    "stock": 180,
+    "images": [
+      "https://m.media-amazon.com/images/I/81YwCT8Vq8L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Q5zDf1aVL._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "viscosity": "10W-30",
+      "type": "High Mileage Synthetic Blend",
+      "additives": "Seal Conditioners",
+      "apiRating": "SN"
+    },
+    "rating": 4.3,
+    "reviews": 234,
+    "discount": 0,
+    "isFeatured": false
+  },
+  {
+    "name": "Wix Premium Oil Filter",
+    "arabicName": "فلتر زيت ويكس بريميوم",
+    "description": "High-quality oil filter with multiple filtration media for optimal protection",
+    "price": 12.99,
+    "category": "Engine",
+    "brand": "Wix",
+    "carBrand": "Ford",
+    "carModel": "F-150",
+    "year": "2004-2008",
+    "partNumber": "WIX-51348",
+    "sku": "SKU-WIX-012",
+    "stock": 300,
+    "images": [
+      "https://m.media-amazon.com/images/I/71ImwU3qtmL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Jq9eG+OuL._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "height": "4.5 inches",
+      "diameter": "3 inches",
+      "bypass": "14-18 PSI",
+      "media": "Synthetic"
+    },
+    "rating": 4.7,
+    "reviews": 189,
+    "discount": 0,
+    "isFeatured": false
+  },
+  {
+    "name": "Mann Air Filter",
+    "arabicName": "فلتر هواء مان",
+    "description": "Original quality air filter that improves engine performance and fuel economy",
+    "price": 24.5,
+    "category": "Engine",
+    "brand": "Mann",
+    "carBrand": "Volkswagen",
+    "carModel": "Golf",
+    "year": "2010-2014",
+    "partNumber": "MAN-C35154",
+    "sku": "SKU-MANN-013",
+    "stock": 95,
+    "images": [
+      "https://m.media-amazon.com/images/I/71FQ0sEw-QL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81vAUSx61LL._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "type": "Panel Filter",
+      "dimensions": "240x200x40mm",
+      "oeQuality": "Yes"
+    },
+    "rating": 4.5,
+    "reviews": 112,
+    "discount": 5,
+    "isFeatured": false
+  },
+  {
+    "name": "Beck Arnley Ignition Coil",
+    "arabicName": "ملف إشعال بيك أرنلي",
+    "description": "Ignition coil that restores engine performance to its original state",
+    "price": 54.75,
+    "category": "Engine",
+    "brand": "Beck Arnley",
+    "carBrand": "Mazda",
+    "carModel": "3",
+    "year": "2004-2009",
+    "partNumber": "BA-1788425",
+    "sku": "SKU-BECK-014",
+    "stock": 42,
+    "images": [
+      "https://m.media-amazon.com/images/I/71GflQeEnVL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81JIXpzvkKL._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "type": "Coil-on-Plug",
+      "primaryResistance": "0.5-0.7 Ohms",
+      "secondaryResistance": "6-16 kOhms"
+    },
+    "rating": 4.4,
+    "reviews": 67,
+    "discount": 10,
+    "isFeatured": false
+  },
+  {
+    "name": "Meyle HD Control Arm",
+    "arabicName": "ذراع تحكم مايل ثقيل الواجب",
+    "description": "Reinforced control arm that withstands harsh conditions and heavy use",
+    "price": 89.0,
+    "category": "Suspension",
+    "brand": "Meyle",
+    "carBrand": "BMW",
+    "carModel": "3 Series",
+    "year": "1999-2005",
+    "partNumber": "MEY-3160500089",
+    "sku": "SKU-MEYLE-015",
+    "stock": 23,
+    "images": [
+      "https://m.media-amazon.com/images/I/71J+YJ+T7oL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71sKpK3kO5L._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "type": "Heavy Duty",
+      "position": "Front Lower",
+      "includes": "Ball Joint, Bushings"
+    },
+    "rating": 4.8,
+    "reviews": 89,
+    "discount": 18,
+    "isFeatured": true
+  },
+  {
+    "name": "Philips X-tremeVision Headlight Bulbs",
+    "arabicName": "لمبات فيليبس اكس تريم فيجن",
+    "description": "Halogen bulbs providing 130% brighter white light compared to standard bulbs",
+    "price": 42.99,
+    "category": "Electrical",
+    "brand": "Philips",
+    "carBrand": "All",
+    "carModel": "Universal",
+    "year": "All Years",
+    "partNumber": "PHI-12342XV",
+    "sku": "SKU-PHILIPS-016",
+    "stock": 150,
+    "images": [
+      "https://m.media-amazon.com/images/I/71XeDnwRHDL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81ELtyNc6CL._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "type": "H4",
+      "wattage": "60/55W",
+      "color": "White",
+      "lifespan": "Up to 450 hours"
+    },
+    "rating": 4.6,
+    "reviews": 256,
+    "discount": 0,
+    "isFeatured": false
+  },
+  {
+    "name": "Genuine Toyota Cabin Air Filter",
+    "arabicName": "فلتر كابينة تويوتا أصلي",
+    "description": "Original Toyota cabin filter that removes dust, pollen, and mold",
+    "price": 28.95,
+    "category": "Interior",
+    "brand": "Toyota",
+    "carBrand": "Toyota",
+    "carModel": "RAV4",
+    "year": "2013-2018",
+    "partNumber": "TOY-87139-YZZ07",
+    "sku": "SKU-TOYOTA-017",
+    "stock": 85,
+    "images": [
+      "https://m.media-amazon.com/images/I/71hqU4OMieL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81YqJQnTZqL._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "type": "Activated Carbon",
+      "dimensions": "215x275x25mm",
+      "oeNumber": "87139-YZZ07"
+    },
+    "rating": 4.7,
+    "reviews": 145,
+    "discount": 0,
+    "isFeatured": false
+  },
+  {
+    "name": "Bilstein B6 Sport Shocks",
+    "arabicName": "ممتصات صدمات بيلشتاين بي 6 رياضية",
+    "description": "Sport shocks providing better driving control while maintaining comfort",
+    "price": 189.0,
+    "category": "Suspension",
+    "brand": "Bilstein",
+    "carBrand": "Mercedes",
+    "carModel": "C-Class",
+    "year": "2008-2014",
+    "partNumber": "BIL-24-065777",
+    "sku": "SKU-BILSTEIN-018",
+    "stock": 12,
+    "images": [
+      "https://m.media-amazon.com/images/I/71OZvOX5TdL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81d+NSAnM3L._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "type": "Gas Pressure",
+      "position": "Rear",
+      "technology": "Monotube",
+      "warranty": "Lifetime"
+    },
+    "rating": 4.9,
+    "reviews": 56,
+    "discount": 22,
+    "isFeatured": true
+  },
+  {
+    "name": "Hella Rallye 1000FF Driving Lights",
+    "arabicName": "أضواء قيادة هيلا رالي 1000FF",
+    "description": "Powerful driving lights for night roads and difficult weather conditions",
+    "price": 129.99,
+    "category": "Electrical",
+    "brand": "Hella",
+    "carBrand": "Jeep",
+    "carModel": "Wrangler",
+    "year": "2007-2018",
+    "partNumber": "HEL-1EL008271-031",
+    "sku": "SKU-HELLA-019",
+    "stock": 28,
+    "images": [
+      "https://m.media-amazon.com/images/I/71t4EdAcHML._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81yHVRh9EQL._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "type": "LED",
+      "wattage": "18W",
+      "beam": "Spot",
+      "ipRating": "IP67"
+    },
+    "rating": 4.5,
+    "reviews": 78,
+    "discount": 15,
+    "isFeatured": false
+  },
+  {
+    "name": "Royal Purple Synchromax Manual Transmission Fluid",
+    "arabicName": "سائل جير يدوي رويال بيربل سينكروماكس",
+    "description": "High-performance manual transmission fluid that reduces friction and improves gear shifting",
+    "price": 32.5,
+    "category": "Transmission",
+    "brand": "Royal Purple",
+    "carBrand": "Subaru",
+    "carModel": "WRX",
+    "year": "2002-2007",
+    "partNumber": "RP-SYN-020",
+    "sku": "SKU-ROYAL-020",
+    "stock": 65,
+    "images": [
+      "https://m.media-amazon.com/images/I/71YFezm5O0L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81PvPDKBgFL._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "type": "Synthetic",
+      "viscosity": "75W-90",
+      "capacity": "1 Quart",
+      "apiRating": "GL-4"
+    },
+    "rating": 4.8,
+    "reviews": 92,
+    "discount": 0,
+    "isFeatured": false
+  },
+  {
+    "name": "RABYOOOOOO Purple Synchromax Manual Transmission Fluid",
+    "arabicName": "سائل جير يدوي رويال بيربل سينكروماكس",
+    "description": "High-performance manual transmission fluid that reduces friction and improves gear shifting",
+    "price": 32.5,
+    "category": "Transmission",
+    "brand": "Royal Purple",
+    "carBrand": "Subaru",
+    "carModel": "WRX",
+    "year": "2002-2007",
+    "partNumber": "RP-SYN-021",
+    "sku": "SKU-ROYAL-021",
+    "stock": 65,
+    "images": [
+      "https://m.media-amazon.com/images/I/71YFezm5O0L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81PvPDKBgFL._AC_SL1500_.jpg"
+    ],
+    "specifications": {
+      "type": "Synthetic",
+      "viscosity": "75W-90",
+      "capacity": "1 Quart",
+      "apiRating": "GL-4"
+    },
+    "rating": 4.8,
+    "reviews": 92,
+    "discount": 0,
+    "isFeatured": false
+  }
+]
